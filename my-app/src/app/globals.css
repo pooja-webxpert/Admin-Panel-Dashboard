@@ -88,3 +88,6 @@
 .doctor-email{
   margin:  4% 0 !important;
 }
+.css-32fwiz-MuiButtonBase-root-MuiListItemButton-root {
+  gap: 10px!important;
+}
